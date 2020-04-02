@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>my new blog</title>
+    <url>/2020/03/31/my-new-blog/</url>
+    <content><![CDATA[<p>##测试</p>
+]]></content>
+      <tags>
+        <tag>js</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/03/31/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -19,12 +28,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>my new blog</title>
-    <url>/2020/03/31/my-new-blog/</url>
-    <content><![CDATA[<p>##测试</p>
+    <title>大数据学习之路</title>
+    <url>/2020/04/02/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/</url>
+    <content><![CDATA[<h2 id="1-2-Java语言最主要的特点"><a href="#1-2-Java语言最主要的特点" class="headerlink" title="1.2 Java语言最主要的特点"></a>1.2 Java语言最主要的特点</h2><ol>
+<li>封装</li>
+<li>继承</li>
+<li>多态</li>
+</ol>
+<hr>
+<ol>
+<li>封装</li>
+<li>继承</li>
+<li>多态</li>
+</ol>
 ]]></content>
+      <categories>
+        <category>BigData</category>
+      </categories>
       <tags>
-        <tag>js</tag>
+        <tag>JavaSe</tag>
       </tags>
   </entry>
 </search>
